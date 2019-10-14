@@ -3,6 +3,7 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import os
 import sys
+import M4.heap as hp
 
 def stem(w):
     result = ''
@@ -49,6 +50,11 @@ def getIndexData(line):
 
 
 def getFiledata(word):
+    """
+    Used in getIndexData()
+    :param word: word after stemming
+    :return: dict, list of file_names
+    """
     prefix = word[0]
     dic = {}
     files = []
@@ -88,7 +94,7 @@ def getCountScore(file_num, dic, word_list):
     :param file_num: e.g '10103'
     :param dic: get from getIndexData()
     :param word_list: after stemming
-    :return: (int) one file count score
+    :return: the count score for a file
     """
     result = 0
     for word in word_list:
@@ -100,6 +106,13 @@ def getCountScore(file_num, dic, word_list):
 
 
 def getPositionScore(file_num, dic, word_list):
+    """
+    Used in getScoreRank()
+    :param file_num: file_name e.g:'10001'
+    :param dic: get from getFiledata()
+    :param word_list: word_list after stemming
+    :return: the position_score for a file
+    """
     score_sum = 0
     size = len(word_list)
     for i in range(0, size-1):
@@ -115,11 +128,20 @@ def getPositionScore(file_num, dic, word_list):
     return score_sum if score_sum != 0 else 0
 
 
+def getScoreRank(files, dic, word_list):
+    heap = []
+    for f in files:
+        s = getPositionScore(f, dic, word_list) + \
+            getCountScore(f, dic, word_list)
+        heap = hp.heapAdd([s, f], heap)
+    return hp.getRankList(heap)
+
+
 def getShortest(l1, l2):
     shortest = sys.maxsize
     for i in range(len(l1)):
         for j in range(len(l2)):
-            if abs(int(l1[i])-int(l2[j])) < shortest:
+            if abs(int(l1[i])-int(l2[j])) < shortest and abs(int(l1[i])-int(l2[j]))!=0:
                 shortest = abs(int(l1[i])-int(l2[j]))
     return 1/shortest
 
