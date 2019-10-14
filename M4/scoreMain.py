@@ -8,9 +8,19 @@ def getPath(file_name):
     result += file_name
     return result
 
+def getSetList(l):
+    result = []
+    for word in l:
+        if word not in result:
+            result.append(word)
+    return result
+
+
 if __name__ == "__main__":
-    # s = "byron's wife and children"
-    s = input("Your input:\n")
+
+    # Module 4
+    s = "byron's wife and children"
+    # s = input("Your input:\n")
     s = ct.convert(s)
     l_words = s.split(" ")
     dic, files = ct.getIndexData(s)
@@ -19,3 +29,16 @@ if __name__ == "__main__":
     for i in range(len(rank_list)):
         part = getPath(rank_list[i][1])
         print(str(i+1) + '. ' + "aleph.gutenberg.org" + part)
+
+    # Module 5
+    # s = input("Your input:\n")
+    s = "byron's wife and children"
+    s = ct.convert(s)
+    l_words = s.split(" ")
+    inputSetList = getSetList(l_words)
+    dic, files = ct.getIndexData(s)
+    rank_list = ct.getNewScoreRank(set(files), dic, l_words, inputSetList)
+    print("Top 10 results:\n")
+    for i in range(len(rank_list)):
+        part = getPath(rank_list[i][1])
+        print(str(i + 1) + '. ' + "aleph.gutenberg.org" + part)

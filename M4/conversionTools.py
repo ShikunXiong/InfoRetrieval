@@ -4,6 +4,7 @@ from nltk.corpus import stopwords
 import os
 import sys
 import M4.heap as hp
+import math
 
 def stem(w):
     result = ''
@@ -146,3 +147,83 @@ def getShortest(l1, l2):
     return 1/shortest
 
 
+# Module 5
+def getInputVector(l):
+    dic = {}
+    sum_word = 0
+    vector = []
+    for i in l:
+        sum_word += 1
+        dic.setdefault(i, 0)
+        dic[i] += 1
+    for k, v in dic.items():
+        vector.append(v/sum_word)
+    return vector
+
+
+def getCosine(v1, v2):
+    m = 0
+    n1 = 0
+    n2 = 0
+    for i in range(len(v1)):
+        m += v1[i]*v2[i]
+        n1 += v1[i]**2
+        n2 += v2[i]**2
+    n = (n1*n2)**0.5
+    return m/n
+
+
+def getFileVector(file_num, dic, inputList):
+    tmp = []
+    denominator = 0
+    vecotr = []
+    for word in inputList:
+        if file_num in dic[word].keys():
+            # fk: times of word shown in the file
+            fk = int(dic[word][file_num][0])
+        else:
+            fk = 1
+        # nums of files in which the word is shown
+        shown_times = len(dic[word].keys())
+        result = (math.log2(fk)+1)*(math.log2(1001/shown_times))
+        tmp.append(result)
+    for i in tmp:
+        denominator += i**2
+    denominator = denominator**0.5
+    for i in tmp:
+        vecotr.append(i/denominator)
+    return vecotr
+
+
+def getNewPositionScore(file_num, dic, word_list):
+    """
+    Used in getScoreRank()
+    :param file_num: file_name e.g:'10001'
+    :param dic: get from getFiledata()
+    :param word_list: word_list after stemming
+    :return: the position_score for a file
+    """
+    score_sum = 0
+    size = len(word_list)
+    for i in range(0, size-1):
+        word1 = word_list[i]
+        word2 = word_list[i+1]
+        if word1 in dic.keys() and word2 in dic.keys():
+            dic1 = dic[word1]
+            dic2 = dic[word2]
+            if file_num in dic1.keys() and file_num in dic2.keys():
+                l1 = dic1[file_num]
+                l2 = dic2[file_num]
+                score_sum += getShortest(l1, l2)
+    return score_sum/len(word_list) if score_sum != 0 else 0
+
+
+def getNewScoreRank(files, dic, word_list, input_list):
+    heap = []
+    for f in files:
+        v1 = getFileVector(f, dic, input_list)
+        v2 = getInputVector(input_list)
+        s = getNewPositionScore(f, dic, word_list) + \
+        getCosine(v1, v2)
+        heap = hp.heapAdd([s, f], heap)
+    return hp.getRankList(heap)
