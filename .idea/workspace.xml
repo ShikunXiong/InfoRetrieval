@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0877390a-a2c7-43e7-b752-afccae3992b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/M4/conversionTools.py" beforeDir="false" afterPath="$PROJECT_DIR$/M4/conversionTools.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/M4/scoreMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/M4/scoreMain.py" afterDir="false" />
     </list>
@@ -12,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/info$scoreMain.coverage" NAME="scoreMain Coverage Results" MODIFIED="1571027976114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M4" />
+    <SUITE FILE_PATH="coverage/info$scoreMain.coverage" NAME="scoreMain Coverage Results" MODIFIED="1574745186265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M4" />
     <SUITE FILE_PATH="coverage/info$M2.coverage" NAME="M2 Coverage Results" MODIFIED="1570836015610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/info$indexMain.coverage" NAME="indexMain Coverage Results" MODIFIED="1570918450117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M3" />
   </component>
@@ -20,36 +21,38 @@
     <session id="805320132">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="26" />
-          <entry key="txt" value="62" />
+          <entry key="py" value="48" />
+          <entry key="txt" value="105" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="62" />
-          <entry key="Python" value="26" />
+          <entry key="PLAIN_TEXT" value="105" />
+          <entry key="Python" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="31" />
-          <entry key="py" value="9650" />
+          <entry key="py" value="9770" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="9681" />
+          <entry key="Python" value="9801" />
         </counts>
       </usages-collector>
     </session>
@@ -59,18 +62,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M4/conversionTools.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="225" column="20" selection-start-line="225" selection-start-column="20" selection-end-line="225" selection-end-column="20" />
+            <state relative-caret-position="336">
+              <caret line="44" column="23" lean-forward="true" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <marker date="1571027859727" expanded="true" signature="1274:1279" ph="..." />
-                <marker date="1571027859727" expanded="true" signature="1275:1279" ph="..." />
-                <marker date="1571027859727" expanded="true" signature="3014:3019" ph="..." />
-                <marker date="1571027859727" expanded="true" signature="3518:3523" ph="..." />
-                <marker date="1571027859727" expanded="true" signature="4594:4764" ph="..." />
-                <marker date="1571027859727" expanded="true" signature="4787:4792" ph="..." />
-                <marker date="1571027859727" expanded="true" signature="4787:4958" ph="..." />
-                <marker date="1571027859727" expanded="true" signature="5051:5056" ph="..." />
+                <marker date="1574744256262" expanded="true" signature="1274:1279" ph="..." />
+                <marker date="1574744256262" expanded="true" signature="1275:1279" ph="..." />
+                <marker date="1574744256262" expanded="true" signature="3019:3024" ph="..." />
+                <marker date="1574744256262" expanded="true" signature="3523:3528" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M4/scoreMain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+                <marker date="1574744455333" expanded="true" signature="229:348" ph="..." />
               </folding>
             </state>
           </provider>
@@ -79,26 +91,40 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M4/heap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="552">
+              <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M2/M2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M2/zipProcess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
               <folding>
-                <marker date="1571012199800" expanded="true" signature="115:120" ph="..." />
-                <marker date="1571012199800" expanded="true" signature="463:468" ph="..." />
-                <marker date="1571012199800" expanded="true" signature="738:741" ph="..." />
-                <marker date="1571012199800" expanded="true" signature="760:761" ph="..." />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/M4/scoreMain.py">
+        <entry file="file://$PROJECT_DIR$/M2/convert.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+            <state relative-caret-position="216">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
-                <marker date="1571028003868" expanded="true" signature="229:348" ph="..." />
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,6 +145,10 @@
       <find>apocolocyntosi</find>
       <find>cam</find>
       <find>campb</find>
+      <find>getInputVector</find>
+      <find>getNewScoreRank</find>
+      <find>student</find>
+      <find>use</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -138,6 +168,7 @@
         <option value="$PROJECT_DIR$/M4/heap.py" />
         <option value="$PROJECT_DIR$/M4/conversionTools.py" />
         <option value="$PROJECT_DIR$/M4/scoreMain.py" />
+        <option value="$PROJECT_DIR$/M2/M2.py" />
       </list>
     </option>
   </component>
@@ -159,7 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,12 +200,23 @@
             <path>
               <item name="info" type="b2602c69:ProjectViewProjectNode" />
               <item name="info" type="462c0819:PsiDirectoryNode" />
+              <item name="M2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="info" type="b2602c69:ProjectViewProjectNode" />
+              <item name="info" type="462c0819:PsiDirectoryNode" />
+              <item name="M3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="info" type="b2602c69:ProjectViewProjectNode" />
+              <item name="info" type="462c0819:PsiDirectoryNode" />
               <item name="M4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,17 +352,17 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2987897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.60819674" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.5648464" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3295082" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.5672131" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.62969285" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.3295082" />
@@ -375,15 +416,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/10001.txt" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp07737/home/shikunx/Datastructure/M2.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://F:/Anaconda/Ana/envs/python36SciEnv/Lib/zipfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -447,86 +479,189 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input-files/aleph.gutenberg.org/1/0/0/0/10001/10001_new.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136080">
-          <caret line="5751" column="6" selection-start-line="5751" selection-start-column="6" selection-end-line="5751" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/d.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/e.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/f.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1944" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/g.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/i.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/k.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/l.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/n.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1542953" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/p.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/s.txt">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/t.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/u.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-504" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/v.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/w.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-829008" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/x.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/M3/index/y.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2808" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/input-files/aleph.gutenberg.org/1/0/6/3/10639/10639/10639_new.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input-files/aleph.gutenberg.org/1/0/0/0/10009/10009_new.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="966" column="18" selection-start-line="966" selection-start-column="18" selection-end-line="966" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/M3/index/z.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="-188937">
           <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138024">
+          <caret line="5751" column="6" selection-start-line="5751" selection-start-column="6" selection-end-line="5751" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/M3/index/b.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-864" />
+        <state relative-caret-position="-6680941" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/c.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10675021">
+          <caret line="4748" selection-start-line="4748" selection-end-line="4748" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/d.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7256653" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/e.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5389789" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/f.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6139285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/g.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4072453" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/h.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4947301" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/j.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1108329" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/i.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4633559" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/k.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1090425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/l.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4544269" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/m.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6249061" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/n.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2751109" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/o.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2840773" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/p.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9070189" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/q.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-593889" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/r.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6055895" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/t.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6502861" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/u.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2295253">
+          <caret line="18686" column="9" selection-start-line="18686" selection-start-column="6" selection-end-line="18686" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/v.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2149333" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/s.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-345153">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/w.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4561741" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/index/x.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180129" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input-files/aleph.gutenberg.org/robots.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input-files/aleph.gutenberg.org/1/1/0/2/11020/11020.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="4711" column="41" lean-forward="true" selection-start-line="4711" selection-end-line="4711" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input-files/aleph.gutenberg.org/1/0/0/0/10001/10001.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input-files/aleph.gutenberg.org/1/0/0/0/10001/10001_new.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/InvertedIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/M3/indexMain.py">
@@ -536,79 +671,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/InvertedIndex.py">
+    <entry file="file://$PROJECT_DIR$/M4/scoreMain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M2/M2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M2/convert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" selection-start-line="26" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/c.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4748" lean-forward="true" selection-start-line="4748" selection-end-line="4748" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M2/zipProcess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4/heap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="960">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
-            <marker date="1571012199800" expanded="true" signature="115:120" ph="..." />
-            <marker date="1571012199800" expanded="true" signature="463:468" ph="..." />
-            <marker date="1571012199800" expanded="true" signature="738:741" ph="..." />
-            <marker date="1571012199800" expanded="true" signature="760:761" ph="..." />
+            <element signature="e#0#31#0" expanded="true" />
+            <marker date="1574744455333" expanded="true" signature="229:348" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/M4/conversionTools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="225" column="20" selection-start-line="225" selection-start-column="20" selection-end-line="225" selection-end-column="20" />
+        <state relative-caret-position="336">
+          <caret line="44" column="23" lean-forward="true" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1571027859727" expanded="true" signature="1274:1279" ph="..." />
-            <marker date="1571027859727" expanded="true" signature="1275:1279" ph="..." />
-            <marker date="1571027859727" expanded="true" signature="3014:3019" ph="..." />
-            <marker date="1571027859727" expanded="true" signature="3518:3523" ph="..." />
-            <marker date="1571027859727" expanded="true" signature="4594:4764" ph="..." />
-            <marker date="1571027859727" expanded="true" signature="4787:4792" ph="..." />
-            <marker date="1571027859727" expanded="true" signature="4787:4958" ph="..." />
-            <marker date="1571027859727" expanded="true" signature="5051:5056" ph="..." />
+            <marker date="1574744256262" expanded="true" signature="1274:1279" ph="..." />
+            <marker date="1574744256262" expanded="true" signature="1275:1279" ph="..." />
+            <marker date="1574744256262" expanded="true" signature="3019:3024" ph="..." />
+            <marker date="1574744256262" expanded="true" signature="3523:3528" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M4/scoreMain.py">
+    <entry file="file://$PROJECT_DIR$/M4/heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2/M2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
-          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2/zipProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <marker date="1571028003868" expanded="true" signature="229:348" ph="..." />
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2/convert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>

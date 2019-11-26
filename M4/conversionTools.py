@@ -42,7 +42,7 @@ def getIndexData(line):
     files = []
     l = line.split(" ")
     for word in l:
-        if len(l)>1:
+        if len(word) > 1:
             dic.setdefault(word, {})
             dic[word], nums = getFiledata(word)
             files += nums

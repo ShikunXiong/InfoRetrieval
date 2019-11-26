@@ -19,7 +19,7 @@ def getSetList(l):
 if __name__ == "__main__":
 
     # Module 4
-    s = "byron's wife and children"
+    s = "market of prediction"
     # s = input("Your input:\n")
     s = ct.convert(s)
     l_words = s.split(" ")
@@ -32,7 +32,7 @@ if __name__ == "__main__":
 
     # Module 5
     # s = input("Your input:\n")
-    s = "byron's wife and children"
+    s = "is for the use"
     s = ct.convert(s)
     l_words = s.split(" ")
     inputSetList = getSetList(l_words)
