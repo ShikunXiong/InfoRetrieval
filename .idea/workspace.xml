@@ -2,7 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0877390a-a2c7-43e7-b752-afccae3992b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/M2/Mo2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M2/M2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/M2/convert.py" beforeDir="false" afterPath="$PROJECT_DIR$/M2/convert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M2/zipProcess.py" beforeDir="false" afterPath="$PROJECT_DIR$/M2/zipProcess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/f.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/f.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/g.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/g.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/h.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/h.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/i.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/i.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/j.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/j.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/k.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/k.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/l.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/l.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/m.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/m.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/n.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/n.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/o.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/o.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/p.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/p.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/q.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/q.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/s.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/s.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/t.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/t.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/u.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/u.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/v.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/v.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/w.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/w.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/x.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/x.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/index/z.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M3/inv-index/z.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3/indexMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/M3/indexMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4/conversionTools.py" beforeDir="false" afterPath="$PROJECT_DIR$/M4/conversionTools.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +43,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/info$scoreMain.coverage" NAME="scoreMain Coverage Results" MODIFIED="1574745186265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M4" />
+    <SUITE FILE_PATH="coverage/info$M2__1_.coverage" NAME="M2 (1) Coverage Results" MODIFIED="1575321358717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M2" />
+    <SUITE FILE_PATH="coverage/info$scoreMain.coverage" NAME="scoreMain Coverage Results" MODIFIED="1575327828346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M4" />
+    <SUITE FILE_PATH="coverage/info$Mo2.coverage" NAME="Mo2 Coverage Results" MODIFIED="1575322189655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M2" />
     <SUITE FILE_PATH="coverage/info$M2.coverage" NAME="M2 Coverage Results" MODIFIED="1570836015610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/info$indexMain.coverage" NAME="indexMain Coverage Results" MODIFIED="1570918450117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M3" />
   </component>
@@ -19,68 +53,71 @@
     <session id="805320132">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
-          <entry key="project.open.time.0" value="5" />
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="48" />
-          <entry key="txt" value="105" />
+          <entry key="py" value="59" />
+          <entry key="txt" value="111" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="105" />
-          <entry key="Python" value="48" />
+          <entry key="PLAIN_TEXT" value="111" />
+          <entry key="Python" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="31" />
-          <entry key="py" value="9770" />
+          <entry key="dummy" value="1" />
+          <entry key="py" value="9980" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="9801" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="10011" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/M4/conversionTools.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M3/indexMain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-                <marker date="1574744256262" expanded="true" signature="1274:1279" ph="..." />
-                <marker date="1574744256262" expanded="true" signature="1275:1279" ph="..." />
-                <marker date="1574744256262" expanded="true" signature="3019:3024" ph="..." />
-                <marker date="1574744256262" expanded="true" signature="3523:3528" ph="..." />
-              </folding>
+            <state relative-caret-position="216">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M3/InvertedIndex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/M4/scoreMain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="1056">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
-                <marker date="1574745220687" expanded="true" signature="229:348" ph="..." />
+                <marker date="1575327843284" expanded="true" signature="229:348" ph="..." />
               </folding>
             </state>
           </provider>
@@ -117,13 +154,15 @@
         <option value="$PROJECT_DIR$/zipProcess.py" />
         <option value="$PROJECT_DIR$/convert.py" />
         <option value="$PROJECT_DIR$/M2.py" />
-        <option value="$PROJECT_DIR$/M2/convert.py" />
         <option value="$PROJECT_DIR$/M3/index/a.txt" />
         <option value="$PROJECT_DIR$/M3/InvertedIndex.py" />
         <option value="$PROJECT_DIR$/M3/indexMain.py" />
         <option value="$PROJECT_DIR$/M4/heap.py" />
-        <option value="$PROJECT_DIR$/M4/conversionTools.py" />
+        <option value="$PROJECT_DIR$/M2/zipProcess.py" />
         <option value="$PROJECT_DIR$/M2/M2.py" />
+        <option value="$PROJECT_DIR$/M2/Mo2.py" />
+        <option value="$PROJECT_DIR$/M2/convert.py" />
+        <option value="$PROJECT_DIR$/M4/conversionTools.py" />
         <option value="$PROJECT_DIR$/M4/scoreMain.py" />
       </list>
     </option>
@@ -202,6 +241,28 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.scoreMain">
+    <configuration name="M2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="info" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\PyProjects\info\M2\Mo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="M2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="info" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,7 +276,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PyProjects\info\M2\M2.py" />
+      <option name="SCRIPT_NAME" value="D:\PyProjects\info\M2\Mo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Mo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="info" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M2/Mo2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,10 +355,14 @@
       <item itemvalue="Python.M2" />
       <item itemvalue="Python.indexMain" />
       <item itemvalue="Python.scoreMain" />
+      <item itemvalue="Python.M2 (1)" />
+      <item itemvalue="Python.Mo2" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.scoreMain" />
+        <item itemvalue="Python.Mo2" />
+        <item itemvalue="Python.M2 (1)" />
         <item itemvalue="Python.indexMain" />
         <item itemvalue="Python.M2" />
       </list>
@@ -307,17 +394,17 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30786687" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3214826" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.5648464" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.56143343" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.3295082" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.59726965" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32935154" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4334471" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.3295082" />
@@ -329,29 +416,6 @@
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24962178" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.4295082" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4557377" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3295082" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.70163935" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="SciView" order="1" />
-      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -371,27 +435,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://F:/Anaconda/Ana/envs/python36SciEnv/Lib/zipfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="1091" selection-start-line="1091" selection-end-line="1091" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input-files/aleph.gutenberg.org/1/0/1/0/10100/10100.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input-files/aleph.gutenberg.org/1/0/1/0/10100/10100_new.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://F:/Anaconda/Ana/envs/python36SciEnv/Lib/encodings/utf_8_sig.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -434,7 +477,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/y.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/y.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2808" />
       </provider>
@@ -453,137 +496,123 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/z.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/z.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-188937">
           <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138024">
-          <caret line="5751" column="6" selection-start-line="5751" selection-start-column="6" selection-end-line="5751" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/b.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/b.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6680941" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/c.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10675021">
-          <caret line="4748" selection-start-line="4748" selection-end-line="4748" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/d.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/d.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7256653" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/e.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/e.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5389789" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/f.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/f.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6139285" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/g.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/g.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4072453" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/h.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/h.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4947301" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/j.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/j.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1108329" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/i.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/i.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4633559" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/k.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/k.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1090425" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/l.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/l.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4544269" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/m.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/m.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6249061" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/n.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/n.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2751109" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/o.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/o.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2840773" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/p.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/p.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9070189" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/q.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/q.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-593889" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/r.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/r.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6055895" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/t.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/t.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6502861" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/u.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/u.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2295253">
           <caret line="18686" column="9" selection-start-line="18686" selection-start-column="6" selection-end-line="18686" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/v.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/v.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2149333" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/s.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/s.txt">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="-345153">
           <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/w.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/w.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4561741" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3/index/x.txt">
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/x.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-180129" />
       </provider>
@@ -605,10 +634,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/M4/heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/input-files/aleph.gutenberg.org/1/0/0/0/10001/10001_new.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-552">
+        <state relative-caret-position="24">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input-transform/10002_new.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input-transform/10001_new.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input-transform/10069_new.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136800">
+          <caret line="5751" column="6" selection-start-line="5751" selection-start-column="6" selection-end-line="5751" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3/inv-index/c.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="4748" selection-start-line="4748" selection-end-line="4748" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M4/conversionTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="64" column="38" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1575327287823" expanded="true" signature="1274:1279" ph="..." />
+            <marker date="1575327287823" expanded="true" signature="1275:1279" ph="..." />
+            <marker date="1575327287823" expanded="true" signature="3027:3032" ph="..." />
+            <marker date="1575327287823" expanded="true" signature="3531:3536" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2/zipProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2/convert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-436">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2/Mo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -626,55 +728,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M4/heap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M2/M2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M2/zipProcess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M2/convert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4/conversionTools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-            <marker date="1574744256262" expanded="true" signature="1274:1279" ph="..." />
-            <marker date="1574744256262" expanded="true" signature="1275:1279" ph="..." />
-            <marker date="1574744256262" expanded="true" signature="3019:3024" ph="..." />
-            <marker date="1574744256262" expanded="true" signature="3523:3528" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/M4/scoreMain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        <state relative-caret-position="1056">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
-            <marker date="1574745220687" expanded="true" signature="229:348" ph="..." />
+            <marker date="1575327843284" expanded="true" signature="229:348" ph="..." />
           </folding>
         </state>
       </provider>

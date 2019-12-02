@@ -35,10 +35,13 @@ def stem(w):
 
 
 def writeNew(file_path):
-    new__path = file_path.replace(".txt", "") + '_new' + '.txt'
+    a = file_path
+    # new__path = file_path.replace(".txt", "") + '_new' + '.txt'
+    name = file_path.split("/")[-1].replace(".txt", "")
+    new_path = "../input-transform/" + name + "_new" + ".txt"
     try:
         f = open(file_path, mode='r', encoding='utf-8', errors='ignore')
-        w = open(new__path, mode='w', encoding='utf-8')
+        w = open(new_path, mode='w', encoding='utf-8')
         for line in f.readlines():
             new_line = convert(line)
             w.write(new_line + '\n')

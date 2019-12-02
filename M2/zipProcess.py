@@ -39,7 +39,7 @@ def transformTxt(path):
     if os.path.isdir(path):
         all_files = os.listdir(path)
         for file_name in all_files:
-            if file_name.endswith('.txt'):
+            if file_name.endswith('.txt') and file_name.find("new")<0:
                 # process .txt file
                 c.writeNew(path + '/' + file_name)
             else:
@@ -47,3 +47,9 @@ def transformTxt(path):
                 transformTxt(path + '/' + file_name)
     else:
         return
+
+# def move(path):
+#     if os.path.isdir(path):
+#         all_files = os.listdir(path)
+#         for file_name in all_files:
+#             if file_name.find("new"):

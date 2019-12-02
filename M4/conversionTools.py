@@ -59,10 +59,10 @@ def getFiledata(word):
     prefix = word[0]
     dic = {}
     files = []
-    all_files = os.listdir("../M3/index")
+    all_files = os.listdir("../M3/inv-index")
     for file in all_files:
         if prefix in file:
-            f = open("../M3/index" + "/" + file)
+            f = open("../M3/inv-index" + "/" + file)
             next_word = True
             reading = False
             for line in f.readlines():
